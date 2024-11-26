@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "UTC Time Tracker",
+  "version": "1.0",
+  "description": "Displays current UTC time and time left until 12:00 and 14:00 UTC.",
+  "permissions": [],
+  "host_permissions": [],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  }
+}
